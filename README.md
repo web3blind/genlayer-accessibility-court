@@ -8,6 +8,7 @@ It asks validators / LLM-backed adjudication to judge whether an accessibility i
 ## Live demo
 
 - Website: https://hexdrive.tech
+- Main Accessibility Auditor repository: https://github.com/web3blind/accessibility-auditor
 - Contract on Bradbury: https://explorer.testnet-chain.genlayer.com/address/0x050fa298a14852FdfB1Bbd8Cd789c0c72d270cdb
 - Deployment transaction: https://explorer.testnet-chain.genlayer.com/tx/0x2eea0462e9524d858c923f8b22f94b5cb654302b34647ae68afc26d6fb676042
 - Latest adjudication transaction: https://explorer.testnet-chain.genlayer.com/tx/0x2cec79846b583d39e4b4ea38284590656d7dff371160bc8afb10f03fc2ae1303
